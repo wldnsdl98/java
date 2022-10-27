@@ -7,5 +7,6 @@ public class Bulbasaur extends Character {
         setEur(Eur);
 
         System.out.println("Bulbasaur has been chosen !");
+        //a;dkjf;lkdasjfa;lkdj
     }
 }
