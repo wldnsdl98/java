@@ -1,5 +1,7 @@
-public class Bulbasaur extends Character {
-    public Bulbasaur (int Hp, int Def, int Atk, int Spd, int Eur) {
+package Poketmon;
+
+public class Bulbasaur extends myCharacter {
+    public Bulbasaur (int Hp, int Atk, int Def, int Spd, int Eur) {
         setHp(Hp);
         setAtk(Atk);
         setDef(Def);
