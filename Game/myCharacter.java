@@ -1,4 +1,6 @@
-public abstract class Character {
+//package Poketmon;
+
+public abstract class myCharacter {
     private int Hp;
     private int Atk;
     private int Def;

@@ -1,4 +1,6 @@
-public class Charmander extends Character {
+//package Poketmon;
+
+public class Charmander extends myCharacter {
     public Charmander (int Hp, int Def, int Atk, int Spd, int Eur) {
         setHp(Hp);
         setAtk(Atk);
