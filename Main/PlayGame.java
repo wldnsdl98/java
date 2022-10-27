@@ -1,7 +1,7 @@
 
 public class PlayGame {
     public static void chooseCharacter() {
-        System.out.println("play game")
+        System.out.println("play game !!")
     }
 
     public static void main(String[] args) {
