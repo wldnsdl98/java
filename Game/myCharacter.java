@@ -1,4 +1,4 @@
-package Poketmon;
+//package Poketmon;
 
 public abstract class myCharacter {
     private int Hp;

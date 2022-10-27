@@ -1,6 +1,6 @@
-package Poketmon;
+//package Poketmon;
 
-import Poketmon.*;
+//import Poketmon.*;
 import java.util.Scanner;
 //import Exception.IllegalNumException;
 //import Exception.ZeroException;
