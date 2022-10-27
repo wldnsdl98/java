@@ -1,5 +1,3 @@
-//package Poketmon;
-
 public abstract class myCharacter {
     private int Hp;
     private int Atk;
@@ -55,6 +53,5 @@ public abstract class myCharacter {
         System.out.println("Speed : " + Spd);
         System.out.println("Money : " + Eur);
         System.out.println("--------------------");
-
     }
 }
